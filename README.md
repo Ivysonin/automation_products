@@ -48,3 +48,7 @@ Durante o desenvolvimento, pratiquei conceitos importantes de:
 * Aplicação prática de Python em cenários reais do dia a dia
 
 Esse projeto mostrou como pequenas soluções automatizadas podem economizar um tempo enorme em tarefas repetitivas e manuais.
+
+## 📄 Licença
+
+Este projeto está licenciado sob os termos da [Licença MIT](./LICENSE), com cláusula adicional de atribuição.
