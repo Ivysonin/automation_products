@@ -51,4 +51,4 @@ Esse projeto mostrou como pequenas soluções automatizadas podem economizar um 
 
 ## 📄 Licença
 
-Este projeto está licenciado sob os termos da [Licença MIT](./LICENSE), com cláusula adicional de atribuição.
+Este projeto está licenciado sob os termos da [Licença MIT](./LICENSE).
